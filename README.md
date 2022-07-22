@@ -1,9 +1,11 @@
-### Hi there, I'm Aman Verma  👋
+### Hello Tech Experts...I'm Aman Verma 👋
+#### Hiii
+
+## I'm a quick learner with some skills in Flutter,Chatbot Development and AWS Cloud..
 
 
-## I'm a Student, Flutter Developer, chatbot Developer and AWS Backend Developer!!
-
-- 🌱 I’m currently learning everything 📖📒
-- 👯 I’m ready to learn new skills and technologies...
-- 🥅 Future Goals: Contribute more to Open Source projects
+- 🌱 Learning something new everyday 📖📒
+- 👯 And still always ready to learn technologies...
+- 🥅 Future Goals: Contribute more to Open Source projects.
 - ⚡ what I do in my free time: sketching and painting...
+
