@@ -1,7 +1,7 @@
 ### Hello Tech Experts...I'm Aman Verma 👋
 #### Hiii, 
 
-## I'm a quick learner with some skills in Flutter,Chatbot Development and AWS Cloud..
+## I'm a quick learner with skills in Flutter,Chatbot Development and AWS Cloud..
 
 
 - 🌱 Learning something new everyday 📖📒
