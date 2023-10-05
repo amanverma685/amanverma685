@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xBCTXAM9iGT8GDdf51ztFKXtXW7eLxgi/view?usp=sharing](https://drive.google.com/file/d/1xBCTXAM9iGT8GDdf51ztFKXtXW7eLxgi/view?usp=sharing)
 
-- ⚡ Fun fact **I think I can develop anything from scratch if it's feasible in no time...**
+- ⚡ Fun fact **I think I can develop anything from scratch if it's feasible...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
